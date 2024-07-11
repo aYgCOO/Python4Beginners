@@ -1,1 +1,1 @@
-<h2>Python for beginners/h2>
+<h2>Python for beginners</h2>
